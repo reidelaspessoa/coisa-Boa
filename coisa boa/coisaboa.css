@@ -1,0 +1,13 @@
+.caixa-principal{
+    color: rgb(19, 226, 226);
+    text-align: center;
+
+}
+body{
+    background-color: black;
+}
+.nação{
+    background-color: red;
+    padding-bottom: 100;
+    
+}
